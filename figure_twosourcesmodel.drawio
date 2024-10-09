@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="r7dT-O8GW9QesFzvQpkW">
-    <mxGraphModel dx="418" dy="2854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YWFQruCCLUFbeTypSdhy-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;image=https://images.lucid.app/images/ed388841-b973-405b-a6d8-33d4dcf134ee/content;imageAspect=0;lucidId=V0jgvHH-pum8;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-1380" width="720" height="375.5" as="geometry" />
-        </mxCell>
         <mxCell id="YWFQruCCLUFbeTypSdhy-2" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Garamond&quot;&gt;Trad ; fc&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="1060" y="-560" width="400" height="30" as="geometry" />
         </mxCell>
@@ -119,7 +116,7 @@
           <mxGeometry x="1324" y="-736" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YWFQruCCLUFbeTypSdhy-37" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ta (50m)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1115.34" y="-890" width="60" height="30" as="geometry" />
+          <mxGeometry x="1113.34" y="-890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YWFQruCCLUFbeTypSdhy-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -561,11 +558,29 @@
         <mxCell id="YWFQruCCLUFbeTypSdhy-149" value="&lt;i style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font face=&quot;Garamond&quot; style=&quot;forced-color-adjust: none; font-size: 18px;&quot;&gt;Trad,i ; fc,i&lt;/font&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-530" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YWFQruCCLUFbeTypSdhy-151" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YWFQruCCLUFbeTypSdhy-153" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1209.01" y="-842.25" as="sourcePoint" />
-            <mxPoint x="1600" y="-842" as="targetPoint" />
+            <mxPoint x="1706" y="-811" as="sourcePoint" />
+            <mxPoint x="1706" y="-880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YWFQruCCLUFbeTypSdhy-154" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1195" y="-875.71" as="sourcePoint" />
+            <mxPoint x="1670" y="-876" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWFQruCCLUFbeTypSdhy-155" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="1696" y="-890" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YWFQruCCLUFbeTypSdhy-156" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ta (50m)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1716" y="-895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YWFQruCCLUFbeTypSdhy-157" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="-875" width="20" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="YWFQruCCLUFbeTypSdhy-158" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;Two-Source Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="880.01" y="-735.33" width="272.66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
