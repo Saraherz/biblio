@@ -44,7 +44,7 @@
           <mxGeometry x="1045.34" y="-940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YWFQruCCLUFbeTypSdhy-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.forrst;fillColor=#27431F" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-810" width="52.800000000000004" height="73.2" as="geometry" />
+          <mxGeometry x="1300" y="-800" width="110" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
