@@ -688,9 +688,6 @@
             <mxPoint x="297.24" y="-7.1200000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OD2XFNrXKZdBXmjPYPCz-40" value="&lt;span id=&quot;docs-internal-guid-3c458857-7fff-cdd6-4405-d9959158fef8&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275.3000000000001" y="1.6300000000000026" width="20" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-ZyiD67uZP0RsPfr-zog-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sensor Height&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260.18" y="-40.37" width="136.82" height="30" as="geometry" />
         </mxCell>
